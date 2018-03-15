@@ -1,5 +1,7 @@
 # karma-jasmine-html-reporter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dfederm/karma-jasmine-html-reporter.svg)](https://greenkeeper.io/)
+
 Reporter that dynamically shows tests results at debug.html page.
 
 Jasmine 1.3 is not supported. For Jasmine < 3.0.0, use version 0.2.2
